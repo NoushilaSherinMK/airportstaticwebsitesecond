@@ -1,0 +1,566 @@
+.header
+{
+    width: 100%;
+    height: 100px;
+    background-color:#fff;
+    
+   
+}
+.left
+{
+    display: flex;
+
+}
+.divairportauthority
+{
+    width: 350px;
+    height: 30px;
+    background-color:#fff;
+}
+.text1
+{
+    width: 350px;
+    height: 29px;
+    background-color:#fff;
+    
+    margin-top: 10px;
+    text-decoration: none;
+}
+.divtimeandwheather
+{
+    width: 200px;
+    height: 50px;
+    color: #fff;;
+    background-color: rgb(13, 13, 196);
+    display: flex;
+    border-radius: 10px;
+    padding-top: 20px;
+    margin-left: 80px;
+
+}
+.rightside1
+{
+    width:350;
+    height: 30px;
+    background-color:white;
+    display: flex; 
+    
+    margin-left: 250px;
+    
+    
+
+}
+.login
+{
+    width: 90px;
+    height: 30px;
+    background-color:  rgb(13, 13, 196);
+    
+}
+.login:hover
+{
+    background-color:  #04bbff;
+}
+.settings
+{
+    width: 50px;
+    height: 30px;
+    background-color:  rgb(13, 13, 196);
+    margin-left: 3px;
+
+}
+.settings:hover
+{
+background-color: #04bbff;
+}
+.search
+{
+    width: 50px;
+    height: 30px;
+    background-color:  rgb(13, 13, 196);
+    margin-left: 3px;
+
+}
+.search:hover
+{
+background-color:  #04bbff;
+}
+.screen
+{
+    width: 50px;
+    height: 30px;
+    background-color: rgb(13, 13, 196);
+    margin-left: 3px;
+}
+.screen:hover
+{
+background-color: #04bbff;
+}
+.language
+{ width: 90px;
+    height: 30px;
+    background-color:   rgb(13, 13, 196);
+    margin-left: 3px;
+
+}
+.language:hover
+{
+background-color:  #04bbff;
+}
+.header2
+{
+    width: 1330px;
+    height: 40px;
+    background-color: rgb(13, 13, 196);
+    padding-top: 0px;
+    position:sticky;
+    top: 0;
+
+    
+    
+} 
+.buttons 
+{
+    width: 925px;
+    height: 40px;
+    background-color: rgb(13, 13, 196);
+    display: flex;
+    justify-content:space-evenly;
+        flex-wrap: wrap;
+    gap: 10px;
+   
+}
+   
+   
+
+
+.header2btn1
+{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(13, 13, 196);
+    border: none;
+    color: #fff;
+    
+    
+}
+.header2btn1:hover
+{
+  background-color: #fff;
+  color: blue;
+}
+
+
+
+
+.header2btn2
+{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(13, 13, 196);
+    border: none;
+    color: #fff;
+}
+.header2btn2:hover
+{
+  background-color: #fff;
+  color: blue;
+}
+.header2btn3
+{
+    width: 190px;
+    height: 40px;
+    background-color: rgb(13, 13, 196);
+    border: none;
+    color: #fff;
+}
+.header2btn3:hover
+{
+  background-color: #fff;
+  color: blue;
+}
+.header2btn4
+{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(13, 13, 196);
+    border: none;
+    color: #fff;
+}
+.header2btn4:hover
+{
+  background-color: #fff;
+  color: blue;
+}
+.header2btn5
+{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(13, 13, 196);
+    border: none;
+    color: #fff;
+}
+.header2btn5:hover
+{
+  background-color: #fff;
+  color: blue;
+}
+.header2btn6
+{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(13, 13, 196);
+    border: none;
+    color: #fff;
+}
+.header2btn6:hover
+{
+  background-color: #fff;
+  color: blue;
+}
+.header2btn7
+{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(13, 13, 196);
+    border: none;
+    color: #fff;
+}
+.header2btn7:hover
+{
+  background-color: #fff;
+  color: blue;
+}
+.landing1
+{
+    margin-top: 10px;
+}
+.landing1
+{
+    width:100%;
+    height:510px;
+   box-shadow:  0px 10px 0px 10px lightblue;
+}
+.landing2
+{
+    width: 100%;
+    height: 400px;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+   
+   
+}
+.landing21
+{
+    width: 400px;
+    height: 350px;
+    background-color: #fff;
+}
+.landing22
+{
+    width: 400px;
+    height: 350px;
+    background-color: #fff;
+}
+.landing23
+{
+    width: 400px;
+    height: 350px;
+    background-color: rgb(62, 117, 117); 
+}
+
+.add
+{
+    width: 400px;
+    height: 40px;
+    background-color:  rgb(13, 13, 196);
+    
+}
+.textadd
+{
+  color: #fff;
+  font-size: larger;
+  margin-left: 50px;
+}
+.news
+{
+    width: 100%;
+    height: 60px;
+    background-color:  rgb(13, 13, 196);
+    padding-top: 1px;
+   
+        position: relative;
+   
+    
+   
+      
+   
+
+}
+.footer
+{
+    width: 100%;
+    height: 60px;
+    background-color:  rgb(13, 13, 196);
+    margin-top: 0px;
+    
+
+    
+}
+.footerviewmore
+{
+    margin-left: 300px;
+    color: #fff;
+}
+.landing23top
+{
+    width: 100%;
+    height: 60px;
+    background-color:  rgb(13, 13, 196);
+    padding-top: 1px;
+}
+.footerlanding23
+{
+    width: 100%;
+    height: 60px;
+    background-color:  rgb(13, 13, 196);
+    margin-top: 22px;
+    
+}
+.KozhikodeBeach
+{ margin-left: 150px;
+    color: #fff;
+    font-size: larger;
+
+
+}
+.landing3
+{
+    width:100%;
+    height: 130px;
+    background-color:  rgb(13, 13, 196);
+    padding-top: 20px;
+    display: flex;
+
+}
+.landin3-1
+    
+{
+
+    width:100px;
+    height: 120px;
+    background-color:  rgb(13, 13, 196);
+    margin-left:10px;
+    margin-left: 200px;
+}
+
+
+.landin3-2
+{
+    width:100px;
+    height: 120px;
+    background-color:  rgb(13, 13, 196);
+    margin-left:10px;
+
+}
+
+.landin3-3
+{
+    width:100px;
+    height: 120px;
+    background-color:  rgb(13, 13, 196);
+    margin-left:10px;
+
+
+}
+
+
+.landin3-4
+{
+    width:100px;
+    height: 120px;
+    background-color:  rgb(13, 13, 196);
+    margin-left:10px;
+
+}
+
+.landin3-5
+{
+    width:100px;
+    height: 120px;
+    background-color:  rgb(13, 13, 196);
+    margin-left:10px;
+
+}
+.landin3-6
+{
+    width:100px;
+    height: 120px;
+    background-color:  rgb(13, 13, 196);
+    margin-left:10px;
+
+}
+
+.landin3-7
+{
+    width:100px;
+    height: 120px;
+    background-color:  rgb(13, 13, 196);
+    margin-left:10px;
+
+}
+.landin3-8
+{
+    width:100px;
+    height: 120px;
+    background-color:  rgb(13, 13, 196);
+    margin-left:10px;
+
+}
+
+.landing4
+{
+    width:100%;
+    height: 300px;
+    background-color:#fff;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.landin4-1
+{
+    width: 350px;
+    height: 300px;
+    background-color:#fff;
+    margin-left:50px;
+}
+.landin4-1
+{
+    width: 350px;
+    height: 300px;
+    background-color: #fff;
+}
+.landin4-2
+{
+    width: 350px;
+    height: 300px;
+    background-color: #fff;
+}
+.landin4-3
+{
+    width: 350px;
+    height: 300px;
+    background-color: #fff;
+}
+.landin4-4
+{
+    width: 350px;
+    height: 300px;
+    background-color: #fff;
+}
+.landin4-4img
+{
+    margin-top: 30px;
+}
+.button4-3
+{
+    background-color: blue;
+    height: 50px;
+    border-radius: 10px;
+
+}
+.button4-3
+{
+    color: #fff;
+    text-decoration: none;
+}
+.mainfooter
+{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    
+}
+.embassyimage:hover
+{
+  color: blue;
+}
+
+
+.copyright
+{
+    padding: 5px;
+    color: #fff;
+    float: left;
+}
+.credits
+{
+    color: #fff;
+    float: left;
+    padding-left: 80px;
+}
+.browsert
+{
+    color: #fff; 
+}
+.imagemap
+{
+    margin-top: 30px;
+}
+.textlogin
+{
+    text-decoration: none;
+}
+.language
+{
+    text-decoration: none;
+}
+.text1text
+{
+    text-decoration: none;
+
+}
+.embassy-icon:hover
+{
+background: blue;
+}
+.eaticon:hover
+{
+color: blue;
+}
+.newsh
+{
+    color: white;
+    padding: 0px;
+    font-size: 16px;
+    display: inline-grid;
+    text-align: left;
+    font-size: 17px;
+}
+.newslists
+{
+    width: 400px;
+    height: 230px;
+    background-color:#fff;
+    
+}
+.landing23toptext
+{
+    color:#fff;
+    margin-left: 50px;
+    
+}
+.newslists
+{
+    overflow-y: scroll ;
+}
+
+
+
+.awards-icon:hover::before
+{
+    color:blue;
+}
+
